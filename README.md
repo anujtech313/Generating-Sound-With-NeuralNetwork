@@ -10,7 +10,7 @@ workflow of the architecture
 Autoencoder and variational AutoEncoder with some modification in encoder component and loss function(alpha.RMSE+kullback-Leibler Divergence) was build to test the sound sample. VAE generated sound almost similiar to the original sample. Also the architecture was tested on MNIST image dataset
 
 
-![https://github.com/anujtech313/Generating-Sound-With-NeuralNetwork/blob/master/vae.png]
+![VAE](https://github.com/anujtech313/Generating-Sound-With-NeuralNetwork/blob/master/vae.png)
 
 
 
